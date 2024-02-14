@@ -19,7 +19,7 @@ im2.show()
 
 # Set timer 
 import random
-sleep_time = random.randint(5, 25)
+sleep_time = random.randint(5, 26)
 
 
 time.sleep(sleep_time)
